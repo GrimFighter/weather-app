@@ -6,7 +6,7 @@ body {
     margin: 0;
     font-family: 'Open Sans', sans-serif;
     background: #222;
-    background-image: url('https://source.unsplash.com/1600x900/?nature,water,landscape');
+    background-image: url('https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Ffree-photos-vectors%2Fbackground&psig=AOvVaw1UrIDUD58PsoJbhXjtmoA2&ust=1712155383541000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPDkrfjho4UDFQAAAAAdAAAAABAE');
     font-size: 120%;
   }
   
@@ -83,16 +83,4 @@ body {
     position: absolute;
     top: 0;
     left: 20px;
-  }
-  
-  .footer{
-    position:absolute; padding: 0.4rem !important;margin: 10px;
-    border-color: inherit;
-      border-style: solid;
-      border-width: 0;
-    background-color: #212529 !important;
-  }
-  .footer h4{
-    color: white; 
-    text-align: center;
   }
